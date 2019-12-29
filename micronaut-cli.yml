@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: io.twinterf
+---
+testFramework: junit
+sourceLanguage: java
